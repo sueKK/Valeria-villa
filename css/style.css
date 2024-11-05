@@ -1308,7 +1308,7 @@ blockquote cite:before {
 
 /* ======= Team style ======= */
 .team .item {
-    margin-bottom: 30px;
+    margin-bottom: 0px;
 }
 
 .team .item:hover .info .social {
@@ -1610,8 +1610,8 @@ blockquote cite:before {
 
 /* ======= Services style ======= */
 .services .item {
-    padding: 60px 30px;
-    margin-bottom: 30px;
+    padding: 30px 30px;
+    margin-bottom: 0px;
     position: relative;
 }
 .services .item:hover {
